@@ -6,6 +6,7 @@
         "ms-vscode.vscode-typescript-next",
         "yoavbls.pretty-ts-errors",
         "streetsidesoftware.code-spell-checker",
-        "aaron-bond.better-comments"
+        "aaron-bond.better-comments",
+        "editorconfig.editorconfig"
     ]
 }
