@@ -12,5 +12,5 @@ perf        성능을 향상시키는 코드 변경입니다.
 ci          CI 구성 파일 및 스크립트의 변경 사항.
 build       빌드 시스템 또는 외부 디펜던시에 영향을 미치는 변경 사항(예: gulp, broccli, npm).
 
-eslint prettier commitlint lintstaged husky 설정 꼭 하기
+eslint prettier commitlint lint-staged husky 설정 꼭 하기
 ```
