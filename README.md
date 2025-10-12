@@ -14,3 +14,5 @@ build       빌드 시스템 또는 외부 디펜던시에 영향을 미치는 �
 
 eslint prettier commitlint lint-staged husky 설정 꼭 하기
 ```
+
+Next.js + TypeScript + React Query + MUI + Zustand + ESLint/Prettier/Husky + Turbopack Dev 환경
